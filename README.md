@@ -1,3 +1,4 @@
-# i2c_led_1602
+# I2C Led 1602 in STM32CubeIDE
 
-Source: https://github.com/alixahedi/i2c-lcd-stm32
+- Code in STM32: https://github.com/alixahedi/i2c-lcd-stm32
+- Libraries in Arduino: https://github.com/johnrickman/LiquidCrystal_I2C
